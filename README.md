@@ -22,3 +22,9 @@
 *	You can change password and can logout
 
 ---
+
+## How to run in local server:
+
+* Add project files in a folder in Xampp/htdocs
+* Run Apache and Mysql in Xampp
+* Open in browser in localhost : localhost/"FolderName"/index.html 
